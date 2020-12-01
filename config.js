@@ -1,14 +1,14 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://sundayworkers.github.io',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
+  title: 'Blog by SundayWorkers',
   subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: '',
   useKatex: false,
   menu: [
     {
@@ -25,7 +25,7 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'SundayWorkers',
     photo: '/photo.jpg',
     bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
     contacts: {
