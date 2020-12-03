@@ -2,26 +2,31 @@
 name: Bug report
 about: Create a report to help us improve
 title: ''
-labels: ''
+labels: bug
 assignees: ''
 
 ---
 
-**Describe the bug**
+### 무슨 버그인가요?
+
 A clear and concise description of what the bug is.
 
-**To Reproduce**
+### 어떻게 하면 발생하나요?
+
 Steps to reproduce the behavior:
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
 4. See error
 
-**Expected behavior**
+### 어떻게 고쳐져야 하나요?
+
 A clear and concise description of what you expected to happen.
 
+### 환경 (optional)
+
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
+- If applicable, add screenshots to help explain your problem.
 
 **Desktop (please complete the following information):**
  - OS: [e.g. iOS]
