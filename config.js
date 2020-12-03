@@ -26,7 +26,7 @@ module.exports = {
   ],
   author: {
     name: 'SundayWorkers',
-    photo: '/photo.jpg',
+    photo: '/logo.png',
     bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
     contacts: {
       email: '',
