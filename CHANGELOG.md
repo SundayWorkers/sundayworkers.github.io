@@ -14,6 +14,7 @@
 ## [1.0] - 2020-12-01
 ### Added
 - Github Action으로 `post`브랜치에 새 커밋이 올라오면 `public`브랜치에 자동 배포
+- CODEOWNERS 파일을 추가하여 자동으로 PR reviewer 지정 ([About code owners](https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/about-code-owners))
 ### Changed
 - 우리 그룹에 맞게 이름 및 각종 meta data 수정
 - `.github` 폴더에 들어있는 각종 템플릿 수정

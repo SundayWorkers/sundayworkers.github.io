@@ -1,8 +1,21 @@
-## Description
+## 무엇에 대한 PR인가요?
 
-<!-- Write a brief description of the changes introduced by this PR -->
+- [x] 새로운 포스팅
+- [ ] 기존 포스팅 수정
+- [ ] 그 외
 
-## Related Issues
+## 요약
+
+생략
+
+<!--
+  이 PR로 변경되는 것에 대해 설명
+  그냥 posting 관련 PR이라면 내용을 적지 않아도 된다.
+-->
+
+## 관련된 Issues
+
+없음
 
 <!--
   Link to the issue that is fixed by this PR (if there is one)
